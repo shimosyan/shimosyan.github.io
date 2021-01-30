@@ -1,4 +1,4 @@
-![AvatarImage](/avatar.png)
+<img src="/avatar.png" alt="AvatarImage" style="border-radius: 50%;">
 
 ## About Me / プロフィール
 
