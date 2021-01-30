@@ -52,16 +52,23 @@
 <dt>CI</dt>
 <dd style="margin-bottom: 0;">AWS CodeBuild</dd>
 <dd style="margin-bottom: 0;">CircleCI</dd>
+<dt>Infrastructure as Code</dt>
+<dd style="margin-bottom: 0;">AWS CDK</dd>
 <dt>Network</dt>
 <dd style="margin-bottom: 0;">YAMAHA RTX Series (Router)</dd>
 <dd style="margin-bottom: 0;">YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
 <dd style="margin-bottom: 0;">YAMAHA SWX2xxx Series (Layer2 Switch)</dd>
 <dd style="margin-bottom: 0;">YAMAHA WLX Series (Access Point)</dd>
 <dd style="margin-bottom: 0;">Aruba IAP 3xx / 5xx Series (Access Point)</dd>
+<dd style="margin-bottom: 0;">Fortinet FortiGate 200E (UTM)</dd>
 <dd style="margin-bottom: 0;">Cisco Meraki</dd>
 </dl>
 
+## SaaS
+
 <dl>
+<dt>Groupware</dt>
+<dd style="margin-bottom: 0;">Google Workspace</dd>
 <dt>Identity Provider</dt>
 <dd style="margin-bottom: 0;">Okta</dd>
 <dt>Mobile Device Management</dt>
