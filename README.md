@@ -20,8 +20,10 @@
 ## Career / 経歴
 
 <!-- cspell: disable-->
+
 | 2018.11 -       | Chatwork Co.,Ltd.         | Employee  |
 | 2014.4 - 2018.9 | TOYO KOKU DENSHI Co.,Ltd. | Employee  |
+
 <!-- cspell: enable-->
 
 ## Technology Stack / 技術スタック
