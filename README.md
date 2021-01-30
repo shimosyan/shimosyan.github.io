@@ -1,39 +1,48 @@
-<img src="/avatar.png" alt="AvatarImage" style="border-radius: 50%;">
+<!-- markdownlint-disable MD033 MD041-->
+<div style="width: 100%;text-align: center;">
+  <img src="./avatar.png" alt="AvatarImage" style="border-radius: 50%;width: 40%;">
+</div>
 
-## About Me / プロフィール
+## Profile / プロフィール
 
-You can use the [editor on GitHub](https://github.com/shimosyan/shimosyan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<dl>
+<dt>Name</dt>
+<dd>しもしゃん / shimosyan</dd>
+<dt>Jobs</dt>
+<dd>Corporate Engineer / 情シス</dd>
+<dt>Birth year</dt>
+<dd>1992</dd>
+<dt>Hobby</dt>
+<dd>DTM / Music Programming</dd>
+<dd>Game</dd>
+</dl>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Career / 経歴
 
-### Markdown
+| 2018.11 -       | Chatwork Co.,Ltd.         | Employee  | <!-- cspell: disable-line-->
+| 2014.4 - 2018.9 | TOYO KOKU DENSHI Co.,Ltd. | Employee  | <!-- cspell: disable-line-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Qualification / 資格・称号
 
-```markdown
-Syntax highlighted code block
+* ITパスポート試験（IP）
+* 基本情報技術者試験（FE）
+* 応用情報技術者試験（AP）
 
-# Header 1
-## Header 2
-### Header 3
+* 第二種陸上特殊無線技士
+* 航空特殊無線技士
 
-- Bulleted
-- List
+* 第一種普通自動車運転免許 (MT)
 
-1. Numbered
-2. List
+## Social Account / アカウント
 
-**Bold** and _Italic_ and `Code` text
+* [Twitter](https://twitter.com/shimosyan)
+* [GitHub](https://github.com/shimosyan)
+* [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
 
-[Link](url) and ![Image](src)
-```
+## Speaker / 登壇
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [Serverless 技術勉強会#2](https://techplay.jp/event/764308)
 
-### Jekyll Themes
+## Output / アウトプット
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shimosyan/shimosyan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
