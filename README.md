@@ -1,4 +1,12 @@
 <!-- markdownlint-disable MD033 MD041-->
+<style type="text /css">
+<!--
+  dd{
+    margin-bottom: 0;
+}
+-->
+</style>
+
 <div style="width: 100%;text-align: center;">
   <img src="./avatar.png" alt="AvatarImage" style="border-radius: 50%;width: 40%;">
 </div>
@@ -13,7 +21,8 @@
 <dt>Birth year</dt>
 <dd>1992</dd>
 <dt>Hobby</dt>
-<dd>DTM / Music Programming<br>Game</dd>
+<dd>DTM / Music Programming</dd>
+<dd>Game</dd>
 </dl>
 
 ## Career / 経歴
@@ -30,7 +39,10 @@
 <!-- cspell: disable-->
 <dl>
 <dt>Programing language / Library etc.</dt>
-<dd>Node.js<br>JavaScript<br>TypeScript<br>PHP</dd>
+<dd>Node.js</dd>
+<dd>JavaScript</dd>
+<dd>TypeScript</dd>
+<dd>PHP</dd>
 <dt>Infrastructure</dt>
 <dd>AWS</dd>
 <dt>Database</dt>
