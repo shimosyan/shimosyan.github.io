@@ -19,8 +19,53 @@
 
 ## Career / 経歴
 
-| 2018.11 -       | Chatwork Co.,Ltd.         | Employee  | <!-- cspell: disable-line-->
-| 2014.4 - 2018.9 | TOYO KOKU DENSHI Co.,Ltd. | Employee  | <!-- cspell: disable-line-->
+<!-- cspell: disable-->
+| 2018.11 -       | Chatwork Co.,Ltd.         | Employee  |
+| 2014.4 - 2018.9 | TOYO KOKU DENSHI Co.,Ltd. | Employee  |
+<!-- cspell: enable-->
+
+## Technology Stack / 技術スタック
+
+<!-- cspell: disable-->
+<dl>
+<dt>Programing language / Library etc.</dt>
+<dd>Node.js</dd>
+<dd>JavaScript</dd>
+<dd>TypeScript</dd>
+<dd>PHP</dd>
+<dt>Infrastructure</dt>
+<dd>AWS</dd>
+<dt>Database</dt>
+<dd>MySQL</dd>
+<dd>Presto</dd>
+<dt>Data Analytics</dt>
+<dd>TreasureData</dd>
+<dt>Workflow</dt>
+<dd>AWS StepFunctions</dd>
+<dd>DigDag</dd>
+<dt>Middleware</dt>
+<dd>Fluentd</dd>
+<dt>Monitoring</dt>
+<dd>Datadog</dd>
+<dt>CI</dt>
+<dd>AWS CodeBuild</dd>
+<dd>CircleCI</dd>
+<dt>Network</dt>
+<dd>YAMAHA RTX Series (Router)</dd>
+<dd>YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
+<dd>YAMAHA SWX2xxx Series (Layer2 Switch)</dd>
+<dd>YAMAHA WLX Series (Access Point)</dd>
+<dd>Aruba IAP 3xx / 5xx Series (Access Point)</dd>
+<dd>Cisco Meraki</dd>
+</dl>
+
+<dl>
+<dt>Identity Provider</dt>
+<dd>Okta</dd>
+<dt>Mobile Device Management</dt>
+<dd>Jamf Pro</dd>
+</dl>
+<!-- cspell: enable-->
 
 ## Qualification / 資格・称号
 
@@ -36,6 +81,7 @@
 ## Social Account / アカウント
 
 * [Twitter](https://twitter.com/shimosyan)
+
 * [GitHub](https://github.com/shimosyan)
 * [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
 
