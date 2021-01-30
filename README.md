@@ -13,8 +13,7 @@
 <dt>Birth year</dt>
 <dd>1992</dd>
 <dt>Hobby</dt>
-<dd>DTM / Music Programming</dd>
-<dd>Game</dd>
+<dd>DTM / Music Programming<br>Game</dd>
 </dl>
 
 ## Career / 経歴
@@ -31,10 +30,7 @@
 <!-- cspell: disable-->
 <dl>
 <dt>Programing language / Library etc.</dt>
-<dd>Node.js</dd>
-<dd>JavaScript</dd>
-<dd>TypeScript</dd>
-<dd>PHP</dd>
+<dd>Node.js<br>JavaScript<br>TypeScript<br>PHP</dd>
 <dt>Infrastructure</dt>
 <dd>AWS</dd>
 <dt>Database</dt>
