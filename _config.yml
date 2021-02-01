@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: "ポートフォリオ"
 
 logo: "./avatar.png"
 show_downloads: false

@@ -1,20 +1,16 @@
 <!-- markdownlint-disable MD033 MD041-->
-<div style="width: 100%;text-align: center;">
-  <img src="./avatar.png" alt="AvatarImage" style="border-radius: 50%;width: 40%;">
-</div>
-
 ## Profile / プロフィール
 
 <dl>
 <dt>Name</dt>
-<dd style="margin-bottom: 0.2rem;">しもしゃん / shimosyan</dd>
+<dd>しもしゃん / shimosyan</dd>
 <dt>Jobs</dt>
-<dd style="margin-bottom: 0.2rem;">Corporate Engineer / 情シス</dd>
+<dd>Corporate Engineer / 情シス</dd>
 <dt>Birth year</dt>
-<dd style="margin-bottom: 0.2rem;">1992</dd>
+<dd>1992</dd>
 <dt>Hobby</dt>
-<dd style="margin-bottom: 0.2rem;">DTM / Music Programming</dd>
-<dd style="margin-bottom: 0.2rem;">Game</dd>
+<dd>DTM / Music Programming</dd>
+<dd>Game</dd>
 </dl>
 
 ## Career / 経歴
@@ -28,48 +24,48 @@
 
 <dl>
 <dt>Programing language / Library etc.</dt>
-<dd style="margin-bottom: 0.2rem;">Node.js</dd>
-<dd style="margin-bottom: 0.2rem;">JavaScript</dd>
-<dd style="margin-bottom: 0.2rem;">TypeScript</dd>
-<dd style="margin-bottom: 0.2rem;">PHP</dd>
+<dd>Node.js</dd>
+<dd>JavaScript</dd>
+<dd>TypeScript</dd>
+<dd>PHP</dd>
 <dt>Infrastructure</dt>
-<dd style="margin-bottom: 0.2rem;">AWS</dd>
+<dd>AWS</dd>
 <dt>Database</dt>
-<dd style="margin-bottom: 0.2rem;">MySQL</dd>
-<dd style="margin-bottom: 0.2rem;">Presto</dd>
+<dd>MySQL</dd>
+<dd>Presto</dd>
 <dt>Data Analytics</dt>
-<dd style="margin-bottom: 0.2rem;">TreasureData</dd>
+<dd>TreasureData</dd>
 <dt>Workflow</dt>
-<dd style="margin-bottom: 0.2rem;">AWS StepFunctions</dd>
-<dd style="margin-bottom: 0.2rem;">DigDag</dd>
+<dd>AWS StepFunctions</dd>
+<dd>DigDag</dd>
 <dt>Middleware</dt>
-<dd style="margin-bottom: 0.2rem;">Fluentd</dd>
+<dd>Fluentd</dd>
 <dt>Monitoring</dt>
-<dd style="margin-bottom: 0.2rem;">Datadog</dd>
+<dd>Datadog</dd>
 <dt>CI</dt>
-<dd style="margin-bottom: 0.2rem;">AWS CodeBuild</dd>
-<dd style="margin-bottom: 0.2rem;">CircleCI</dd>
+<dd>AWS CodeBuild</dd>
+<dd>CircleCI</dd>
 <dt>Infrastructure as Code</dt>
-<dd style="margin-bottom: 0.2rem;">AWS CDK</dd>
+<dd>AWS CDK</dd>
 <dt>Network</dt>
-<dd style="margin-bottom: 0.2rem;">YAMAHA RTX Series (Router)</dd>
-<dd style="margin-bottom: 0.2rem;">YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
-<dd style="margin-bottom: 0.2rem;">YAMAHA SWX2xxx Series (Layer2 Switch)</dd>
-<dd style="margin-bottom: 0.2rem;">YAMAHA WLX Series (Access Point)</dd>
-<dd style="margin-bottom: 0.2rem;">Aruba IAP 3xx / 5xx Series (Access Point)</dd>
-<dd style="margin-bottom: 0.2rem;">Fortinet FortiGate 200E (UTM)</dd>
-<dd style="margin-bottom: 0.2rem;">Cisco Meraki</dd>
+<dd>YAMAHA RTX Series (Router)</dd>
+<dd>YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
+<dd>YAMAHA SWX2xxx Series (Layer2 Switch)</dd>
+<dd>YAMAHA WLX Series (Access Point)</dd>
+<dd>Aruba IAP 3xx / 5xx Series (Access Point)</dd>
+<dd>Fortinet FortiGate 200E (UTM)</dd>
+<dd>Cisco Meraki</dd>
 </dl>
 
 ## SaaS
 
 <dl>
 <dt>Groupware</dt>
-<dd style="margin-bottom: 0.2rem;">Google Workspace</dd>
+<dd>Google Workspace</dd>
 <dt>Identity Provider</dt>
-<dd style="margin-bottom: 0.2rem;">Okta</dd>
+<dd>Okta</dd>
 <dt>Mobile Device Management</dt>
-<dd style="margin-bottom: 0.2rem;">Jamf Pro</dd>
+<dd>Jamf Pro</dd>
 </dl>
 <!-- cspell: enable-->
 
