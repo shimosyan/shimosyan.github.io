@@ -20,23 +20,32 @@ $header-bg-color-secondary: #ec9f2c;
   display: flex;
 }
 
-#parent-container > #child1 {
-  flex-grow: 2;
-}
-
-#parent-container > #child2 {
-  flex-grow: 1;
-  text-align: right;
-}
-
 @media screen and (max-width: 42em){
+  #parent-container {
+    flex-direction: column;
+  }
+
   #child2 > img {
     border-radius: 50%;
-    width: 240px;
+    width: 60%;
+    order: 0;
   }
 }
 
 @media screen and (min-width: 42em){
+  #parent-container > #child1 {
+    flex-grow: 2;
+  }
+
+  #parent-container > #child2 {
+    flex-grow: 1;
+    text-align: right;
+  }
+
+  #parent-container {
+    flex-direction: row;
+  }
+
   #child2 > img {
     border-radius: 50%;
     width: 320px;
