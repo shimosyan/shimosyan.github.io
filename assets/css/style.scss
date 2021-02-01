@@ -8,15 +8,25 @@ $header-bg-color-secondary: #ec9f2c;
 
 @import "{{ site.theme }}";
 
-.image-container {
-  width: 100%;
-  text-align: center;
+#skip-to-content {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+  top: -10px;
 }
 
-.image-container > img {
-  border-radius: 50%;
-  width: 40%;
+#parent-container {
+  display: flex;
 }
+#parent-container > div {
+  flex-grow: 1;
+}
+
+#parent-container > div > img {
+  border-radius: 50%;
+}
+
 
 dd {
   margin-bottom: 0.2rem;

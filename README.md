@@ -1,21 +1,23 @@
 <!-- markdownlint-disable MD033 MD041-->
-<div class="image-container" >
-  <img src="./avatar.png" alt="AvatarImage">
+<div id="parent-container">
+  <div>
+    <img src="./avatar.png" alt="AvatarImage">
+  </div>
+  <div>
+    <h2>Profile / プロフィール</h2>
+    <dl>
+      <dt>Name</dt>
+      <dd>しもしゃん / shimosyan</dd>
+      <dt>Jobs</dt>
+      <dd>Corporate Engineer / 情シス</dd>
+      <dt>Birth year</dt>
+      <dd>1992</dd>
+      <dt>Hobby</dt>
+      <dd>DTM / Music Programming</dd>
+      <dd>Game</dd>
+    </dl>
+  </div>
 </div>
-
-## Profile / プロフィール
-
-<dl>
-<dt>Name</dt>
-<dd>しもしゃん / shimosyan</dd>
-<dt>Jobs</dt>
-<dd>Corporate Engineer / 情シス</dd>
-<dt>Birth year</dt>
-<dd>1992</dd>
-<dt>Hobby</dt>
-<dd>DTM / Music Programming</dd>
-<dd>Game</dd>
-</dl>
 
 ## Career / 経歴
 
