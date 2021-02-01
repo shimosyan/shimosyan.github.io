@@ -25,14 +25,26 @@ $header-bg-color-secondary: #ec9f2c;
     flex-direction: column;
   }
 
+  #parent-container > #child1 {
+    order: 1;
+  }
+
+  #parent-container > #child2 {
+    order: 0;
+    text-align: center;
+  }
+
   #child2 > img {
     border-radius: 50%;
     width: 60%;
-    order: 0;
   }
 }
 
 @media screen and (min-width: 42em){
+  #parent-container {
+    flex-direction: row;
+  }
+
   #parent-container > #child1 {
     flex-grow: 2;
   }
@@ -40,10 +52,6 @@ $header-bg-color-secondary: #ec9f2c;
   #parent-container > #child2 {
     flex-grow: 1;
     text-align: right;
-  }
-
-  #parent-container {
-    flex-direction: row;
   }
 
   #child2 > img {
