@@ -1,4 +1,8 @@
 <!-- markdownlint-disable MD033 MD041-->
+<div class="image_container" >
+  <img src="./avatar.png" alt="AvatarImage">
+</div>
+
 ## Profile / プロフィール
 
 <dl>

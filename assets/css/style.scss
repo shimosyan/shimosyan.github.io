@@ -1,7 +1,13 @@
 @import "{{ site.theme }}";
 
-.wrapper > header > img {
+.image_container {
+  width: 100%;
+  text-align: center;
+}
+
+.image_container > img {
   border-radius: 50%;
+  width: 40%;
 }
 
 dd {
