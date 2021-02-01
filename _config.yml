@@ -1,9 +1,8 @@
 theme: jekyll-theme-cayman
 
-title: "Shimosyan portfolio"
+title: "Shimosyan's portfolio" # cspell: disable-line
 description: "Corporate Engineer "
 
-logo: "./avatar.png"
 lang: "ja"
 show_downloads: false
 google_analytics: "G-EW7Z0Z4KLX"
