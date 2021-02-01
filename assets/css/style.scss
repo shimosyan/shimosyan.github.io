@@ -1,4 +1,7 @@
-@import "{{site.theme}}" ;
+---
+---
+
+@import "{{ site.theme }}";
 
 .wrapper > header > img {
   border-radius: 50%;
