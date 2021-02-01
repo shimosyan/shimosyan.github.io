@@ -19,11 +19,16 @@ $header-bg-color-secondary: #ec9f2c;
 #parent-container {
   display: flex;
 }
-#parent-container > div {
+
+#parent-container > #child1 {
+  flex-grow: 2;
+}
+
+#parent-container > #child2 {
   flex-grow: 1;
 }
 
-#parent-container > div > img {
+#child2 > img {
   border-radius: 50%;
 }
 

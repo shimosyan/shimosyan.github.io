@@ -1,9 +1,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 <div id="parent-container">
-  <div>
-    <img src="./avatar.png" alt="AvatarImage">
-  </div>
-  <div>
+  <div id="child1">
     <h2>Profile / プロフィール</h2>
     <dl>
       <dt>Name</dt>
@@ -16,6 +13,9 @@
       <dd>DTM / Music Programming</dd>
       <dd>Game</dd>
     </dl>
+  </div>
+  <div id="child2">
+    <img src="./avatar.png" alt="AvatarImage">
   </div>
 </div>
 
