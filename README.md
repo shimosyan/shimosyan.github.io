@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041-->
-<div class="image_container" >
+<div class="image-container" >
   <img src="./avatar.png" alt="AvatarImage">
 </div>
 
