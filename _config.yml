@@ -3,5 +3,6 @@ theme: jekyll-theme-minimal
 title: "ポートフォリオ"
 
 logo: "./avatar.png"
+lang: "ja"
 show_downloads: false
 google_analytics: "G-EW7Z0Z4KLX"
