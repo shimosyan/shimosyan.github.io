@@ -1,8 +1,13 @@
 theme: jekyll-theme-cayman
 
-title: "ポートフォリオ"
+title: "Shimosyan portfolio"
+description: "Corporate Engineer "
 
 logo: "./avatar.png"
 lang: "ja"
 show_downloads: false
 google_analytics: "G-EW7Z0Z4KLX"
+
+github:
+  is_project_page: true
+  repository_url: "https://github.com/shimosyan"

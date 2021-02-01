@@ -26,13 +26,23 @@ $header-bg-color-secondary: #ec9f2c;
 
 #parent-container > #child2 {
   flex-grow: 1;
+  text-align: right;
 }
 
-#child2 > img {
-  border-radius: 50%;
+@media screen and (max-width: 42em){
+  #child2 > img {
+    border-radius: 50%;
+    width: 240px;
+  }
 }
 
+@media screen and (min-width: 42em){
+  #child2 > img {
+    border-radius: 50%;
+    width: 320px;
+  }
+}
 
 dd {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.2rem !important;
 }
