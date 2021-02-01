@@ -1,4 +1,11 @@
 
+$section-headings-color: #b7341f;
+
+$header-bg-color: #b7341f;
+$header-bg-color-secondary: #ec9f2c;
+
+@import "{{ site.theme }}";
+
 .image-container {
   width: 100%;
   text-align: center;
@@ -12,5 +19,3 @@
 dd {
   margin-bottom: 0.2rem;
 }
-
-@import "{{ site.theme }}";
