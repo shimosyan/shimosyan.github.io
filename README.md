@@ -23,8 +23,8 @@
 
 <!-- cspell: disable-->
 
-| 2021/02 -       | DXER Inc.                  | Side Business  |
-| 2018/11 -       | Chatwork Co., Ltd.         | Employee  |
+| 2021/02 -       | DXER Inc.                    | Side Business  |
+| 2018/11 -       | Chatwork Co., Ltd.           | Employee  |
 | 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd. | Employee  |
 
 ## Technology Stack / 技術スタック
