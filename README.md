@@ -74,7 +74,6 @@
 <dt>Mobile Device Management</dt>
 <dd>Jamf Pro</dd>
 </dl>
-<!-- cspell: enable-->
 
 ## Qualification / 資格・称号
 
@@ -93,6 +92,7 @@
 
 * [GitHub](https://github.com/shimosyan)
 * [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
+* [Zenn](https://zenn.dev/shimosyan) <!-- cspell: disable-line-->
 
 ## Speaker / 登壇
 
@@ -101,3 +101,4 @@
 ## Output / アウトプット
 
 * [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
+* [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
