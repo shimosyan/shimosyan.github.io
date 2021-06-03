@@ -31,8 +31,7 @@
 
 <dl>
 <dt>Programing language / Library etc.</dt>
-<dd>Node.js</dd>
-<dd>TypeScript / JavaScript</dd>
+<dd>Node.js(TypeScript / JavaScript)</dd>
 <dd>PHP</dd>
 <dt>Infrastructure</dt>
 <dd>AWS</dd>
@@ -68,6 +67,8 @@
 <dl>
 <dt>Groupware</dt>
 <dd>Google Workspace</dd>
+<dt>Knowledge</dt>
+<dd>Atlassian Confluence / JIRA</dd>
 <dt>Identity Provider</dt>
 <dd>Okta</dd>
 <dd>Microsoft Azure Active Directory</dd>
