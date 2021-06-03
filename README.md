@@ -32,15 +32,14 @@
 <dl>
 <dt>Programing language / Library etc.</dt>
 <dd>Node.js</dd>
-<dd>JavaScript</dd>
-<dd>TypeScript</dd>
+<dd>TypeScript / JavaScript</dd>
 <dd>PHP</dd>
 <dt>Infrastructure</dt>
 <dd>AWS</dd>
 <dt>Database</dt>
 <dd>MySQL</dd>
 <dd>Presto</dd>
-<dt>Data Analytics</dt>
+<dt>Data Ware House</dt>
 <dd>TreasureData</dd>
 <dt>Workflow</dt>
 <dd>AWS StepFunctions</dd>
@@ -71,7 +70,9 @@
 <dd>Google Workspace</dd>
 <dt>Identity Provider</dt>
 <dd>Okta</dd>
+<dd>Microsoft Azure Active Directory</dd>
 <dt>Mobile Device Management</dt>
+<dd>Microsoft Intune</dd>
 <dd>Jamf Pro</dd>
 </dl>
 
