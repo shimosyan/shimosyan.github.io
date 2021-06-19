@@ -52,6 +52,7 @@
 <dd>CircleCI</dd>
 <dt>Infrastructure as Code</dt>
 <dd>AWS CDK</dd>
+<dd>Terraform</dd>
 <dt>Network</dt>
 <dd>YAMAHA RTX Series (Router)</dd>
 <dd>YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
