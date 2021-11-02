@@ -23,87 +23,92 @@
 
 <!-- cspell: disable-->
 
+| 2021/04 -       | Repro Inc.                   | Side Business  |
 | 2021/02 -       | DXER Inc.                    | Side Business  |
 | 2018/11 -       | Chatwork Co., Ltd.           | Employee  |
 | 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd. | Employee  |
 
 ## Technology Stack / 技術スタック
 
-<dl>
-<dt>Programing language / Library etc.</dt>
-<dd>Node.js(TypeScript / JavaScript)</dd>
-<dd>PHP</dd>
-<dt>Infrastructure</dt>
-<dd>AWS</dd>
-<dt>Database</dt>
-<dd>MySQL</dd>
-<dd>Presto</dd>
-<dt>Data Ware House</dt>
-<dd>TreasureData</dd>
-<dt>Workflow</dt>
-<dd>AWS StepFunctions</dd>
-<dd>DigDag</dd>
-<dt>Middleware</dt>
-<dd>Fluentd</dd>
-<dt>Monitoring</dt>
-<dd>Datadog</dd>
-<dt>CI</dt>
-<dd>AWS CodeBuild</dd>
-<dd>CircleCI</dd>
-<dt>Infrastructure as Code</dt>
-<dd>AWS CDK</dd>
-<dd>Terraform</dd>
-<dt>Network</dt>
-<dd>YAMAHA RTX Series (Router)</dd>
-<dd>YAMAHA SWX3xxx Series (Layer3 Switch)</dd>
-<dd>YAMAHA SWX2xxx Series (Layer2 Switch)</dd>
-<dd>YAMAHA WLX Series (Access Point)</dd>
-<dd>Aruba IAP 3xx / 5xx Series (Access Point)</dd>
-<dd>Fortinet FortiGate 200E (UTM)</dd>
-<dd>Cisco Meraki</dd>
-</dl>
+- Programing language / Library etc.
+  - TypeScript
+  - PHP
+- Infrastructure
+  - AWS
+    - Lambda
+    - Step Functions
+    - ECS
+    - RDS
+    - Glue
+    - ete...
+- Data Ware House
+  - TreasureData
+- Monitoring
+  - Datadog
+- CI/CD
+  - GitHub Actions
+  - CircleCI
+  - AWS CodeBuild
+- Infrastructure as Code
+  - Terraform
+    - AWS
+    - Okta
+  - AWS CDK
+  - AWS SAM
+- Network
+  - YAHAMA
+    - RTX Series (Router)
+    - SWX3xxx Series (Layer3 Switch)
+    - SWX2xxx Series (Layer2 Switch)
+    - WLX Series (Access Point)
+  - Aruba
+    - IAP 3xx / 5xx Series (Access Point)
+  - Fortinet
+    - FortiGate 200E (UTM)
+  - Cisco Meraki
+    - MS Series (Layer2 Switch)
+    - MR Series (Access Point)
 
 ## SaaS
 
-<dl>
-<dt>Groupware</dt>
-<dd>Google Workspace</dd>
-<dt>Knowledge</dt>
-<dd>Atlassian Confluence / JIRA</dd>
-<dt>Identity Provider</dt>
-<dd>Okta</dd>
-<dd>Microsoft Azure Active Directory</dd>
-<dt>Mobile Device Management</dt>
-<dd>Microsoft Intune</dd>
-<dd>Jamf Pro</dd>
-</dl>
+- Groupware
+  - Google Workspace
+- Knowledge
+  - Atlassian Confluence / JIRA
+- Identity Provider
+  - Okta
+  - Microsoft Azure Active Directory
+- Mobile Device Management
+  - Microsoft Intune
+  - Jamf Pro
+- Communication
+  - Chatwork
+  - Zoom
 
 ## Qualification / 資格・称号
 
-* ITパスポート試験（IP）
-* 基本情報技術者試験（FE）
-* 応用情報技術者試験（AP）
+- ITパスポート試験（IP）
+- 基本情報技術者試験（FE）
+- 応用情報技術者試験（AP）
 
-* 第二種陸上特殊無線技士
-* 航空特殊無線技士
+- 第二種陸上特殊無線技士
+- 航空特殊無線技士
 
-* 第一種普通自動車運転免許 (MT)
+- 第一種普通自動車運転免許 (MT)
 
 ## Social Account / アカウント
 
-* [Twitter](https://twitter.com/shimosyan)
-
-* [GitHub](https://github.com/shimosyan)
-* [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
-* [Zenn](https://zenn.dev/shimosyan) <!-- cspell: disable-line-->
+- [Twitter](https://twitter.com/shimosyan)
+- [GitHub](https://github.com/shimosyan)
+- [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
+- [Zenn](https://zenn.dev/shimosyan) <!-- cspell: disable-line-->
 
 ## Speaker / 登壇
 
-* [Serverless 技術勉強会#2](https://techplay.jp/event/764308)
+- [Serverless 技術勉強会#2](https://techplay.jp/event/764308)
 
 ## Output / アウトプット
 
-* [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
-* [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
-* [Okta を Terraform と GitHub Actions を使ってコード管理するチュートリアル](https://zenn.dev/shimosyan/books/bb0ba712133779061804)
-* [AzureADをOktaからSSOしているときに他社SharePointでサインインループしたときの対処法](https://zenn.dev/shimosyan/articles/2f769b2cf63b81)
+- [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
+- [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
+- [Okta を Terraform と GitHub Actions を使ってコード管理するチュートリアル](https://zenn.dev/shimosyan/books/bb0ba712133779061804)
