@@ -112,3 +112,4 @@
 - [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
 - [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
 - [Okta を Terraform と GitHub Actions を使ってコード管理するチュートリアル](https://zenn.dev/shimosyan/books/bb0ba712133779061804)
+- [Okta の Application の グループ割り当てに Terraform を使うとこれだけ楽になる話](https://zenn.dev/shimosyan/articles/fe952fe9a408cf)
