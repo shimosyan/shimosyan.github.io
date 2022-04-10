@@ -107,6 +107,8 @@
 ## Speaker / 登壇
 
 - [Serverless 技術勉強会#2](https://techplay.jp/event/764308)
+- [JMUG Meetup #17 - JMUGと一緒に新年度を始めよう](https://eventregist.com/e/jmug0017)
+- [第3回 Okta 勉強会](https://okta.connpass.com/event/244426/)
 
 ## Output / アウトプット
 
