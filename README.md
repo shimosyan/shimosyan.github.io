@@ -70,12 +70,14 @@
     - MS Series (Layer2 Switch)
     - MR Series (Access Point)
 
-## SaaS
+## SaaS Operation and Maintenance
 
 - Groupware
   - Google Workspace
 - Knowledge
-  - Atlassian Confluence / JIRA
+  - Atlassian Confluence
+- Project Management
+  - Atlassian Jira Software
 - Identity Provider
   - Okta
   - Microsoft Azure Active Directory
