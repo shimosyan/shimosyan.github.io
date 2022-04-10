@@ -12,6 +12,7 @@
       <dt>Hobby</dt>
       <dd>DTM / Music Programming</dd>
       <dd>Game</dd>
+      <dd>Homebuilt  Computer</dd><!-- cspell: disable-line-->
     </dl>
   </div>
   <div id="child2">
@@ -100,8 +101,8 @@
 
 - [Twitter](https://twitter.com/shimosyan)
 - [GitHub](https://github.com/shimosyan)
-- [Qiita](https://qiita.com/shimosyan) <!-- cspell: disable-line-->
-- [Zenn](https://zenn.dev/shimosyan) <!-- cspell: disable-line-->
+- [Qiita](https://qiita.com/shimosyan)<!-- cspell: disable-line-->
+- [Zenn](https://zenn.dev/shimosyan)<!-- cspell: disable-line-->
 
 ## Speaker / 登壇
 
