@@ -90,6 +90,8 @@
 
 ## Qualification / 資格・称号
 
+- [Jamf Heroes](https://heroes.jamf.com/profiles/48fe6d85-620a-4329-a7c0-4555db50aaf2)
+
 - ITパスポート試験（IP）
 - 基本情報技術者試験（FE）
 - 応用情報技術者試験（AP）
