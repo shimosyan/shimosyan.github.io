@@ -126,3 +126,5 @@
   - [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
   - [Okta を Terraform と GitHub Actions を使ってコード管理するチュートリアル](https://zenn.dev/shimosyan/books/bb0ba712133779061804)
   - [Okta の Application の グループ割り当てに Terraform を使うとこれだけ楽になる話](https://zenn.dev/shimosyan/articles/fe952fe9a408cf)
+- 2022
+  - [Jamf Pro で Okta からユーザー情報や所属グループを LDAP を使って取得してみた](https://speakerdeck.com/shimosyan/jamf-pro-de-okta-karayuzaqing-bao-yasuo-shu-gurupuwo-ldap-woshi-tutequ-de-sitemita)
