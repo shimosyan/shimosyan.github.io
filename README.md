@@ -121,10 +121,11 @@
 - 2017
   - [【NFC】NDEFについて理解する](https://qiita.com/shimosyan/items/ed21fb6984240baa7397)
 - 2020
-  - [コーポレートエンジニアから見た Serverless](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
+  - [コーポレートエンジニアから見た Serverless（Serverless 技術勉強会#2 登壇資料）](https://speakerdeck.com/shimosyan/serverlessji-shu-mian-qiang-hui-number-2-chatworkdeng-tan-zi-liao)
 - 2021
   - [Jamf Pro で「Macを探す」の On/Off を取得する拡張属性を書く](https://zenn.dev/shimosyan/articles/a2bcc5d09b4c18)
   - [Okta を Terraform と GitHub Actions を使ってコード管理するチュートリアル](https://zenn.dev/shimosyan/books/bb0ba712133779061804)
   - [Okta の Application の グループ割り当てに Terraform を使うとこれだけ楽になる話](https://zenn.dev/shimosyan/articles/fe952fe9a408cf)
 - 2022
-  - [Jamf Pro で Okta からユーザー情報や所属グループを LDAP を使って取得してみた](https://speakerdeck.com/shimosyan/jamf-pro-de-okta-karayuzaqing-bao-yasuo-shu-gurupuwo-ldap-woshi-tutequ-de-sitemita)
+  - [Jamf Pro で Okta からユーザー情報や所属グループを LDAP を使って取得してみた（JMUG Meetup #17 - JMUGと一緒に新年度を始めよう 登壇資料）](https://speakerdeck.com/shimosyan/jamf-pro-de-okta-karayuzaqing-bao-yasuo-shu-gurupuwo-ldap-woshi-tutequ-de-sitemita)
+  - [Okta のグループ運用を軽くするためにやったこと（第3回 Okta 勉強会 登壇資料）](https://speakerdeck.com/shimosyan/okta-falsegurupuyun-yong-wo-qing-kusurutameniyatutakoto)
