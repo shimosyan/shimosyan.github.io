@@ -129,3 +129,4 @@
 - 2022
   - [Jamf Pro で Okta からユーザー情報や所属グループを LDAP を使って取得してみた（JMUG Meetup #17 - JMUGと一緒に新年度を始めよう 登壇資料）](https://speakerdeck.com/shimosyan/jamf-pro-de-okta-karayuzaqing-bao-yasuo-shu-gurupuwo-ldap-woshi-tutequ-de-sitemita)
   - [Okta のグループ運用を軽くするためにやったこと（第3回 Okta 勉強会 登壇資料）](https://speakerdeck.com/shimosyan/okta-falsegurupuyun-yong-wo-qing-kusurutameniyatutakoto)
+  - [【Jamf Pro】macOS のテーマに応じて DepNotify に表示させる画像を切り替える](https://zenn.dev/shimosyan/articles/498a498f75d69f)
