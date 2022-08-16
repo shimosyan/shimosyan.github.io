@@ -24,10 +24,10 @@
 
 <!-- cspell: disable-->
 
-| 2021/04 -       | Repro Inc.                   | Side Business  |
-| 2021/02 -       | DXER Inc.                    | Side Business  |
-| 2018/11 -       | Chatwork Co., Ltd.           | Employee  |
-| 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd. | Employee  |
+| 2021/04 - 2022/08 | Repro Inc.                   | Side Business |
+| 2021/02 -       | DXER Inc.                    | Side Business |
+| 2018/11 -       | Chatwork Co., Ltd.           | Employee |
+| 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd. | Employee |
 
 ## Technology Stack / 技術スタック
 
@@ -67,8 +67,8 @@
   - Fortinet
     - FortiGate 200E (UTM)
   - Cisco Meraki
-    - MS Series (Layer2 Switch)
-    - MR Series (Access Point)
+  - Ubiquiti UniFi
+    - 自宅で使用（[参考](https://twitter.com/shimosyan/status/1559418819617075200)）
 
 ## SaaS Implementation, Operation and Maintenance / SaaS 導入・運用・保守
 
