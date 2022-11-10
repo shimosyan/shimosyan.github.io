@@ -68,7 +68,7 @@
     - FortiGate 200E (UTM)
   - Cisco Meraki
   - Ubiquiti UniFi
-    - 自宅で使用（[参考](https://twitter.com/shimosyan/status/1559418819617075200)）
+    - 自宅で使用（[参考](https://twitter.com/shimosyan/status/1590008030678384640)）
 
 ## SaaS Implementation, Operation and Maintenance / SaaS 導入・運用・保守
 
