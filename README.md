@@ -133,6 +133,6 @@
   - [Jamf Pro で Okta からユーザー情報や所属グループを LDAP を使って取得してみた（JMUG Meetup #17 - JMUGと一緒に新年度を始めよう 登壇資料）](https://speakerdeck.com/shimosyan/jamf-pro-de-okta-karayuzaqing-bao-yasuo-shu-gurupuwo-ldap-woshi-tutequ-de-sitemita)
   - [Okta のグループ運用を軽くするためにやったこと（第3回 Okta 勉強会 登壇資料）](https://speakerdeck.com/shimosyan/okta-falsegurupuyun-yong-wo-qing-kusurutameniyatutakoto)
   - [【Jamf Pro】macOS のテーマに応じて DepNotify に表示させる画像を切り替える](https://zenn.dev/shimosyan/articles/498a498f75d69f)
-  - [新築マイホームに UniFi を導入して天井 AP 設置 & 10Gbps Ethernet で構築してみた](https://zenn.dev/shimosyan/articles/9ef381c96b79f7)articles/fe952fe9a408cf)
+  - [新築マイホームに UniFi を導入して天井 AP 設置 & 10Gbps Ethernet で構築してみた](https://zenn.dev/shimosyan/articles/9ef381c96b79f7)
 - 2023
   - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
