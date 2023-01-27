@@ -135,4 +135,5 @@
   - [【Jamf Pro】macOS のテーマに応じて DepNotify に表示させる画像を切り替える](https://zenn.dev/shimosyan/articles/498a498f75d69f)
   - [新築マイホームに UniFi を導入して天井 AP 設置 & 10Gbps Ethernet で構築してみた](https://zenn.dev/shimosyan/articles/9ef381c96b79f7)
 - 2023
-  - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
+  - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023 登壇資料）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
+  - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
