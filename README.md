@@ -140,3 +140,8 @@
 - 2023
   - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023 登壇資料）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
   - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
+
+## Media / メディア
+
+- 2023
+  - [Mac Fan 2023年8月号 「ビジネスとApple」コーナー インタビュー](https://book.mynavi.jp/macfan/content/id=138827)
