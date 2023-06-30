@@ -33,7 +33,7 @@
 
 ## Technology Stack / 技術スタック
 
-- Programing language / Library etc.
+- Programming language / Library etc.
   - TypeScript
   - PHP
 - Infrastructure
