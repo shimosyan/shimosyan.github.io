@@ -4,7 +4,7 @@
     <h2>Profile / プロフィール</h2>
     <dl>
       <dt>Name</dt>
-      <dd>しもしゃん / shimosyan</dd>
+      <dd>しもしゃん / Shimosyan / Naoki Kariya</dd>
       <dt>Jobs</dt>
       <dd>Corporate Engineer / 情シス</dd>
       <dt>Birth year</dt>
@@ -121,6 +121,7 @@
 - 2023
   - [Business Technology Conference Japan 2023](https://btcon.jp/)
   - [JMUG Nagoya Meetup #01 - JMUG 日本シリーズ](https://eventregist.com/e/jmug-nagoya0001)
+  - [Jamf Nation User Conference 2023 (米国テキサス州オースティン)](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/sessioncatalog/session/1681888707900001Rb9d)
 
 ## Output / アウトプット
 
