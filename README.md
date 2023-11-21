@@ -142,6 +142,7 @@
 - 2023
   - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023 登壇資料）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
   - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
+  - [JNUC2023に登壇しました（Chatwork 公式 Note）](https://note.com/chatwork_note/n/n74aa9742ed7f)
 
 ## Media / メディア
 
