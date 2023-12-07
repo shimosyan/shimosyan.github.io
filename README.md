@@ -122,7 +122,7 @@
 - 2023
   - [Business Technology Conference Japan 2023](https://btcon.jp/)
   - [JMUG Nagoya Meetup #01 - JMUG 日本シリーズ](https://eventregist.com/e/jmug-nagoya0001)
-  - [Jamf Nation User Conference 2023 (米国テキサス州オースティン)](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/sessioncatalog/session/1681888707900001Rb9d)
+  - Jamf Nation User Conference 2023 (米国テキサス州オースティン): [YouTube](https://www.youtube.com/watch?v=AbIMNk0ufXM) / [Event Page](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/sessioncatalog/session/1681888707900001Rb9d)
 
 ## Output / アウトプット
 
