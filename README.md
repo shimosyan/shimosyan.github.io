@@ -22,7 +22,7 @@
 
 ## Career / 経歴
 
-<!-- cspell: disable-->
+<!-- cspell: disable -->
 
 | 2023/07 -         | G-PLAN INC.                  | Side Business via DXER |
 | 2022/11 - 2023/07 | Sansan, Inc.                 | Side Business via DXER |
