@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041-->
+<!-- markdownlint-disable MD033 MD041 -->
 <div id="parent-container">
   <div id="child1">
     <h2>Profile / プロフィール</h2>
@@ -12,7 +12,7 @@
       <dt>Hobby</dt>
       <dd>DTM / Music Programming</dd>
       <dd>Game</dd>
-      <dd>Homebuilt Computer</dd><!-- cspell: disable-line-->
+      <dd>Homebuilt Computer</dd><!-- cspell: disable-line -->
     </dl>
   </div>
   <div id="child2">
