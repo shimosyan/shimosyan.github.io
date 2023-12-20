@@ -151,4 +151,5 @@
 
 - 2023
   - [Mac Fan 2023年8月号 「ビジネスとApple」コーナー インタビュー](https://book.mynavi.jp/macfan/content/id=138827)
-  - [Okta 導入事例 - ChatworkがID管理・認証基盤にOktaを採用し、業務プロセスの効率化を実現](https://www.okta.com/jp/customers/chatwork-wic/)
+  - [Okta様 導入事例 - ChatworkがID管理・認証基盤にOktaを採用し、業務プロセスの効率化を実現](https://www.okta.com/jp/customers/chatwork-wic/)
+  - [kickflow様 導入事例 - Chatworkにとってkickflowは業務改善の「柱」であり「基盤」](https://kickflow.com/casestudy/chatwork/)
