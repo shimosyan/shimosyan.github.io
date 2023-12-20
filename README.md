@@ -24,13 +24,13 @@
 
 <!-- cspell: disable -->
 
-| 2023/07 -         | G-PLAN INC.                  | Side Business via DXER |
+| 2023/07 - 2023/09 | G-PLAN INC.                  | Side Business via DXER |
 | 2022/11 - 2023/07 | Sansan, Inc.                 | Side Business via DXER |
 | 2022/09 - 2023/11 | ROXX, inc.                   | Side Business via DXER |
 | 2021/04 - 2022/08 | Repro Inc.                   | Side Business via DXER |
-| 2021/02 -         | DXER Inc.                    | Side Business |
-| 2018/11 -         | Chatwork Co., Ltd.           | Employee      |
-| 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd.   | Employee      |
+| 2021/02 -         | DXER Inc.                    | Side Business          |
+| 2018/11 -         | Chatwork Co., Ltd.           | Employee               |
+| 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd.   | Employee               |
 
 ## Technology Stack / 技術スタック
 
@@ -83,7 +83,7 @@
   - Atlassian Jira Software
 - Identity Provider
   - Okta
-  - Microsoft Azure Active Directory
+  - Microsoft Entra ID
 - Mobile Device Management
   - Microsoft Intune
   - Jamf Pro
