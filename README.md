@@ -103,7 +103,7 @@
 - 第二種陸上特殊無線技士
 - 航空特殊無線技士
 
-- 第二種電気工事
+- 第二種電気工事士
 
 - 第一種普通自動車運転免許（MT）
 
@@ -145,6 +145,7 @@
   - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023 登壇資料）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
   - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
   - [JNUC2023に登壇しました（Chatwork 公式 Note）](https://note.com/chatwork_note/n/n74aa9742ed7f)
+  - [パソコンの保管方法を改善した話](https://zenn.dev/shimosyan/articles/b33166de9abe8f)
 
 ## Media / メディア
 
