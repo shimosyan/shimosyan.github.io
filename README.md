@@ -39,12 +39,15 @@
   - PHP
 - Infrastructure
   - AWS
+    - VPC
+      - NAT Gateway
+      - Client VPN
+      - ALB/ NLB
     - Lambda
     - Step Functions
-    - ECS
+    - ECS(Fargate)
     - RDS
     - Glue
-    - ete...
 - Data Ware House
   - TreasureData
 - Monitoring
@@ -87,6 +90,8 @@
 - Mobile Device Management
   - Microsoft Intune
   - Jamf Pro
+- Workflow
+  - kickflow
 - Communication
   - Chatwork
   - Zoom
