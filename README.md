@@ -164,3 +164,4 @@
     - [YouTube](https://www.youtube.com/watch?v=eR28_eww65k)
 - 2024
   - [自宅サーバー沼を潜り抜けた人が作るモダンなインフラとは？【突撃!逸般の誤家庭#7】(YouTube)](https://www.youtube.com/watch?v=RRqTR3wL8MY)
+  - [お風呂で情シスラジオ 006(YouTube)](https://www.youtube.com/watch?v=3QvpLSpxvtQ)
