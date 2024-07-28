@@ -24,13 +24,15 @@
 
 <!-- cspell: disable -->
 
-| 2023/07 - 2023/09 | G-PLAN INC.                  | Side Business via DXER |
-| 2022/11 - 2023/07 | Sansan, Inc.                 | Side Business via DXER |
-| 2022/09 - 2023/11 | ROXX, inc.                   | Side Business via DXER |
-| 2021/04 - 2022/08 | Repro Inc.                   | Side Business via DXER |
-| 2021/02 -         | DXER Inc.                    | Side Business          |
-| 2018/11 -         | Chatwork Co., Ltd.           | Employee               |
-| 2014/04 - 2018/09 | TOYO KOKU DENSHI Co., Ltd.   | Employee               |
+|Date|Company Name|Role|
+|---|---|---|
+|2023/07 - 2023/09|G-PLAN INC.|Side Business via DXER|
+|2022/11 - 2023/07|Sansan, Inc.|Side Business via DXER|
+|2022/09 - 2023/11|ROXX, inc.|Side Business via DXER|
+|2021/04 - 2022/08|Repro Inc.|Side Business via DXER|
+|2021/02 -        |DXER Inc.|Side Business|
+|2018/11 -        |kubell Co., Ltd. (Chatwork Co., Ltd.)|Employee|
+|2014/04 - 2018/09|TOYO KOKU DENSHI Co., Ltd.|Employee|
 
 ## Technology Stack / 技術スタック
 
@@ -73,6 +75,9 @@
   - Fortinet
     - FortiGate 200E (UTM)
   - Cisco Meraki
+    - MX Series (Router)
+    - MS Series (Layer2 Switch)
+    - MR Series (Access Point)
   - Ubiquiti UniFi
     - 自宅で使用（[参考](https://zenn.dev/shimosyan/articles/9ef381c96b79f7)）
 
@@ -82,6 +87,7 @@
   - Google Workspace
 - Knowledge
   - Atlassian Confluence
+  - Miro
 - Project Management
   - Atlassian Jira Software
 - Identity Provider
@@ -154,6 +160,8 @@
   - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
   - [JNUC2023に登壇しました（Chatwork 公式 Note）](https://note.com/chatwork_note/n/n74aa9742ed7f)
   - [パソコンの保管方法を改善した話](https://zenn.dev/shimosyan/articles/b33166de9abe8f)
+- 2024
+  - [Microsoft Intune 用に Web から MSI ファイルを取得＆展開できるスクリプトを作った](https://zenn.dev/shimosyan/articles/2f34f66d1d5b9a)
 
 ## Media / メディア
 
