@@ -158,7 +158,7 @@
 - 2023
   - [Oktaの管理者権限を適切に移譲してみた（Business Technology Conference Japan 2023 登壇資料）](https://speakerdeck.com/shimosyan/oktanoguan-li-zhe-quan-xian-woshi-qie-niyi-rang-sitemita)
   - [macOSの更新を促す通知機能 を実装してみた（JMUG Nagoya Meetup #01 登壇資料）](https://speakerdeck.com/shimosyan/macosnogeng-xin-wocu-sutong-zhi-ji-neng-woshi-zhuang-sitemita)
-  - [JNUC2023に登壇しました（Chatwork 公式 Note）](https://note.com/chatwork_note/n/n74aa9742ed7f)
+  - [JNUC2023に登壇しました（Chatwork 公式 Note）](https://note.com/kubell_official/n/n74aa9742ed7f)
   - [パソコンの保管方法を改善した話](https://zenn.dev/shimosyan/articles/b33166de9abe8f)
 - 2024
   - [Microsoft Intune 用に Web から MSI ファイルを取得＆展開できるスクリプトを作った](https://zenn.dev/shimosyan/articles/2f34f66d1d5b9a)
