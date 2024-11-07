@@ -162,6 +162,7 @@
   - [パソコンの保管方法を改善した話](https://zenn.dev/shimosyan/articles/b33166de9abe8f)
 - 2024
   - [Microsoft Intune 用に Web から MSI ファイルを取得＆展開できるスクリプトを作った](https://zenn.dev/shimosyan/articles/2f34f66d1d5b9a)
+  - [標準ユーザーに対して Microsoft Intune と Winget を組み合わせアプリケーション配布を実現させたい](https://zenn.dev/shimosyan/articles/a9d4de7a6d2fee)
 
 ## Media / メディア
 
