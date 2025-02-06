@@ -162,6 +162,9 @@
   - [パソコンの保管方法を改善した話](https://zenn.dev/shimosyan/articles/b33166de9abe8f)
 - 2024
   - [Microsoft Intune 用に Web から MSI ファイルを取得＆展開できるスクリプトを作った](https://zenn.dev/shimosyan/articles/2f34f66d1d5b9a)
+  - [標準ユーザーに対して Microsoft Intune と Winget を組み合わせアプリケーション配布を実現させたい](https://zenn.dev/shimosyan/articles/a9d4de7a6d2fee)
+- 2025
+  - [Windows で最新の Okta Verify をインストールするスクリプトを作った（Intuneの利用を想定）](https://zenn.dev/shimosyan/articles/3b857a5757d8e2)
 
 ## Media / メディア
 
@@ -173,3 +176,5 @@
 - 2024
   - [自宅サーバー沼を潜り抜けた人が作るモダンなインフラとは？【突撃!逸般の誤家庭#7】(YouTube)](https://www.youtube.com/watch?v=RRqTR3wL8MY)
   - [お風呂で情シスラジオ 006(YouTube)](https://www.youtube.com/watch?v=3QvpLSpxvtQ)
+  - [too様 UTORIOT導入事例 - アウトソーシングによって柔軟な運用体制を構築することで工数の大幅な削減とハイブリットワークを実現](https://utorito.too.com/case/kubell)
+    - [YouTube](https://www.youtube.com/watch?v=75W9omreRmY)
