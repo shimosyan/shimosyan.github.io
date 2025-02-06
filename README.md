@@ -176,5 +176,5 @@
 - 2024
   - [自宅サーバー沼を潜り抜けた人が作るモダンなインフラとは？【突撃!逸般の誤家庭#7】(YouTube)](https://www.youtube.com/watch?v=RRqTR3wL8MY)
   - [お風呂で情シスラジオ 006(YouTube)](https://www.youtube.com/watch?v=3QvpLSpxvtQ)
-  - [too様 UTORIOT導入事例 - アウトソーシングによって柔軟な運用体制を構築することで工数の大幅な削減とハイブリットワークを実現](https://utorito.too.com/case/kubell)
+  - [too様 UTORITO導入事例 - アウトソーシングによって柔軟な運用体制を構築することで工数の大幅な削減とハイブリットワークを実現](https://utorito.too.com/case/kubell)
     - [YouTube](https://www.youtube.com/watch?v=75W9omreRmY)
