@@ -87,6 +87,7 @@
 - Groupware
   - Google Workspace
 - Knowledge
+  - Notion
   - Atlassian Confluence
   - Miro
 - Project Management
@@ -100,6 +101,7 @@
 - Workflow
   - kickflow
 - Communication
+  - Slack
   - Chatwork
   - Zoom
 
@@ -122,7 +124,7 @@
 
 ## Social Account / アカウント
 
-- [Twitter](https://twitter.com/shimosyan)
+- [X(Twitter)](https://x.com/shimosyan)
 - [GitHub](https://github.com/shimosyan)
 - [Qiita](https://qiita.com/shimosyan)
 - [Zenn](https://zenn.dev/shimosyan)
@@ -140,6 +142,8 @@
   - [Jamf Nation User Conference 2023 (米国テキサス州オースティン)](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/jnuc2023home)
     - [YouTube](https://www.youtube.com/watch?v=AbIMNk0ufXM)
     - [Event Page](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/sessioncatalog/session/1681888707900001Rb9d)
+- 2026
+  - [AIエージェントが変える情シスの役割 【情シスの現場から vol.6】](https://dxer.connpass.com/event/389034/)
 
 ## Output / アウトプット
 
