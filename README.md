@@ -142,6 +142,8 @@
   - [Jamf Nation User Conference 2023 (米国テキサス州オースティン)](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/jnuc2023home)
     - [YouTube](https://www.youtube.com/watch?v=AbIMNk0ufXM)
     - [Event Page](https://reg.rainfocus.com/flow/jamf/jnuc2023/home23/page/sessioncatalog/session/1681888707900001Rb9d)
+- 2025
+  - [第9回 情シス転職ミートアップ](https://cejobchange.connpass.com/event/355973/)
 - 2026
   - [AIエージェントが変える情シスの役割 【情シスの現場から vol.6】](https://dxer.connpass.com/event/389034/)
 
